@@ -1,0 +1,15 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\bin\Debug\net5.0\SintaxeThis.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\bin\Debug\net5.0\SintaxeThis.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\bin\Debug\net5.0\SintaxeThis.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\bin\Debug\net5.0\SintaxeThis.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\bin\Debug\net5.0\SintaxeThis.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\bin\Debug\net5.0\ref\SintaxeThis.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\bin\Debug\net5.0\SintaxeThis.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\SintaxeThis.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\SintaxeThis.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\SintaxeThis.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\SintaxeThis.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\SintaxeThis.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\ref\SintaxeThis.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\SintaxeThis.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\SintaxeThis\SintaxeThis\obj\Debug\net5.0\SintaxeThis.genruntimeconfig.cache

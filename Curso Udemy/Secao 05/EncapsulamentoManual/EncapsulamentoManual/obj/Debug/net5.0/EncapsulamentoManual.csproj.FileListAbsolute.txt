@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\net5.0\EncapsulamentoManual.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\net5.0\EncapsulamentoManual.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\net5.0\EncapsulamentoManual.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\net5.0\EncapsulamentoManual.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\net5.0\EncapsulamentoManual.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\net5.0\ref\EncapsulamentoManual.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\bin\Debug\net5.0\EncapsulamentoManual.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\ref\EncapsulamentoManual.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\EncapsulamentoManual\EncapsulamentoManual\obj\Debug\net5.0\EncapsulamentoManual.genruntimeconfig.cache
