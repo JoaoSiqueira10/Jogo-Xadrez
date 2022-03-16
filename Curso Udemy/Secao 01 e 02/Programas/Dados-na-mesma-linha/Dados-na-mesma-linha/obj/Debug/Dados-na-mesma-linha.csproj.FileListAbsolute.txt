@@ -1,0 +1,7 @@
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\Programas\Dados-na-mesma-linha\Dados-na-mesma-linha\bin\Debug\Dados-na-mesma-linha.exe.config
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\Programas\Dados-na-mesma-linha\Dados-na-mesma-linha\bin\Debug\Dados-na-mesma-linha.exe
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\Programas\Dados-na-mesma-linha\Dados-na-mesma-linha\bin\Debug\Dados-na-mesma-linha.pdb
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\Programas\Dados-na-mesma-linha\Dados-na-mesma-linha\obj\Debug\Dados-na-mesma-linha.csprojResolveAssemblyReference.cache
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\Programas\Dados-na-mesma-linha\Dados-na-mesma-linha\obj\Debug\Dados-na-mesma-linha.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\Programas\Dados-na-mesma-linha\Dados-na-mesma-linha\obj\Debug\Dados-na-mesma-linha.exe
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\Programas\Dados-na-mesma-linha\Dados-na-mesma-linha\obj\Debug\Dados-na-mesma-linha.pdb

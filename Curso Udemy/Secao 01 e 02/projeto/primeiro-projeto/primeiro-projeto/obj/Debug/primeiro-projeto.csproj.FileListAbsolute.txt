@@ -1,0 +1,14 @@
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe.config
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.pdb
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csprojResolveAssemblyReference.cache
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.exe
+C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe.config
+D:\JG WorkFile\Programação\C#\Curso Udemy\projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\projeto\primeiro-projeto\primeiro-projeto\bin\Debug\primeiro-projeto.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\projeto\primeiro-projeto\primeiro-projeto\obj\Debug\primeiro-projeto.pdb
