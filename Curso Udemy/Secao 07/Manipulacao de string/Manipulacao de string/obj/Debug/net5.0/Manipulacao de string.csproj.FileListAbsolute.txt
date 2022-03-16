@@ -1,0 +1,15 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\bin\Debug\net5.0\Manipulacao de string.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\bin\Debug\net5.0\Manipulacao de string.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\bin\Debug\net5.0\Manipulacao de string.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\bin\Debug\net5.0\Manipulacao de string.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\bin\Debug\net5.0\Manipulacao de string.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\bin\Debug\net5.0\ref\Manipulacao de string.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\bin\Debug\net5.0\Manipulacao de string.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\Manipulacao de string.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\Manipulacao de string.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\Manipulacao de string.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\Manipulacao de string.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\Manipulacao de string.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\ref\Manipulacao de string.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\Manipulacao de string.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Manipulacao de string\Manipulacao de string\obj\Debug\net5.0\Manipulacao de string.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\bin\Debug\net5.0\Propriedade TimeSpan.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\bin\Debug\net5.0\Propriedade TimeSpan.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\bin\Debug\net5.0\Propriedade TimeSpan.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\bin\Debug\net5.0\Propriedade TimeSpan.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\bin\Debug\net5.0\Propriedade TimeSpan.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\bin\Debug\net5.0\ref\Propriedade TimeSpan.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\bin\Debug\net5.0\Propriedade TimeSpan.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\Propriedade TimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\Propriedade TimeSpan.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\Propriedade TimeSpan.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\Propriedade TimeSpan.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\Propriedade TimeSpan.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\ref\Propriedade TimeSpan.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\Propriedade TimeSpan.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Propriedade TimeSpan\Propriedade TimeSpan\obj\Debug\net5.0\Propriedade TimeSpan.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\net5.0\PropriedadeDateTime.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\net5.0\PropriedadeDateTime.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\net5.0\PropriedadeDateTime.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\net5.0\PropriedadeDateTime.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\net5.0\PropriedadeDateTime.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\net5.0\ref\PropriedadeDateTime.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\net5.0\PropriedadeDateTime.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\PropriedadeDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\PropriedadeDateTime.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\PropriedadeDateTime.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\PropriedadeDateTime.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\PropriedadeDateTime.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\ref\PropriedadeDateTime.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\PropriedadeDateTime.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\net5.0\PropriedadeDateTime.genruntimeconfig.cache

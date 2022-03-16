@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\bin\Debug\net5.0\Time Span.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\bin\Debug\net5.0\Time Span.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\bin\Debug\net5.0\Time Span.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\bin\Debug\net5.0\Time Span.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\bin\Debug\net5.0\Time Span.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\bin\Debug\net5.0\ref\Time Span.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\bin\Debug\net5.0\Time Span.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\ref\Time Span.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Time Span\Time Span\obj\Debug\net5.0\Time Span.genruntimeconfig.cache
