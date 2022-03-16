@@ -1,0 +1,15 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\bin\Debug\net5.0\Heranca3.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\bin\Debug\net5.0\Heranca3.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\bin\Debug\net5.0\Heranca3.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\bin\Debug\net5.0\Heranca3.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\bin\Debug\net5.0\Heranca3.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\bin\Debug\net5.0\ref\Heranca3.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\bin\Debug\net5.0\Heranca3.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\Heranca3.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\Heranca3.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\Heranca3.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\Heranca3.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\Heranca3.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\ref\Heranca3.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\Heranca3.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca3\Heranca3\obj\Debug\net5.0\Heranca3.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\bin\Debug\net5.0\ExercicioResolvido10_1.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\bin\Debug\net5.0\ExercicioResolvido10_1.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\bin\Debug\net5.0\ExercicioResolvido10_1.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\bin\Debug\net5.0\ExercicioResolvido10_1.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\bin\Debug\net5.0\ExercicioResolvido10_1.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\bin\Debug\net5.0\ref\ExercicioResolvido10_1.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\bin\Debug\net5.0\ExercicioResolvido10_1.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ref\ExercicioResolvido10_1.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\ExercicioResolvido10_1\ExercicioResolvido10_1\obj\Debug\net5.0\ExercicioResolvido10_1.genruntimeconfig.cache

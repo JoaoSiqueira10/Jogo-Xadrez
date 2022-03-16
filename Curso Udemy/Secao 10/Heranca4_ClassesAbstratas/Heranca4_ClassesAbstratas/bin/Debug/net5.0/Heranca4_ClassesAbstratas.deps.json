@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Heranca4_ClassesAbstratas/1.0.0": {
+        "runtime": {
+          "Heranca4_ClassesAbstratas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Heranca4_ClassesAbstratas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\bin\Debug\net5.0\Heranca4_ClassesAbstratas.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\bin\Debug\net5.0\Heranca4_ClassesAbstratas.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\bin\Debug\net5.0\Heranca4_ClassesAbstratas.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\bin\Debug\net5.0\Heranca4_ClassesAbstratas.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\bin\Debug\net5.0\Heranca4_ClassesAbstratas.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\bin\Debug\net5.0\ref\Heranca4_ClassesAbstratas.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\bin\Debug\net5.0\Heranca4_ClassesAbstratas.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\ref\Heranca4_ClassesAbstratas.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Heranca4_ClassesAbstratas\Heranca4_ClassesAbstratas\obj\Debug\net5.0\Heranca4_ClassesAbstratas.genruntimeconfig.cache
