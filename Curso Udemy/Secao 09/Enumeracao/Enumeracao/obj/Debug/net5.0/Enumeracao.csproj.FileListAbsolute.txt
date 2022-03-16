@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\bin\Debug\net5.0\ref\Enumeracao.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\bin\Debug\net5.0\Enumeracao.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\ref\Enumeracao.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Enumeracao\Enumeracao\obj\Debug\net5.0\Enumeracao.genruntimeconfig.cache
