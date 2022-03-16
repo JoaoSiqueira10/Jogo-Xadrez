@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\bin\Debug\net5.0\AreaTrianguloPOO.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\bin\Debug\net5.0\AreaTrianguloPOO.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\bin\Debug\net5.0\AreaTrianguloPOO.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\bin\Debug\net5.0\AreaTrianguloPOO.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\bin\Debug\net5.0\AreaTrianguloPOO.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\bin\Debug\net5.0\ref\AreaTrianguloPOO.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\bin\Debug\net5.0\AreaTrianguloPOO.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\ref\AreaTrianguloPOO.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\AreaTrianguloPOO\AreaTrianguloPOO\obj\Debug\net5.0\AreaTrianguloPOO.genruntimeconfig.cache
