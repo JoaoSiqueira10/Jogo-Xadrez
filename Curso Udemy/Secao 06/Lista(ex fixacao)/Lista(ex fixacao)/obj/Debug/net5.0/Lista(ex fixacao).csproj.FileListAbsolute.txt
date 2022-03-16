@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\bin\Debug\net5.0\Lista(ex fixacao).exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\bin\Debug\net5.0\Lista(ex fixacao).deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\bin\Debug\net5.0\Lista(ex fixacao).runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\bin\Debug\net5.0\Lista(ex fixacao).runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\bin\Debug\net5.0\Lista(ex fixacao).dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\bin\Debug\net5.0\ref\Lista(ex fixacao).dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\bin\Debug\net5.0\Lista(ex fixacao).pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\ref\Lista(ex fixacao).dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).genruntimeconfig.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Lista(ex fixacao)\Lista(ex fixacao)\obj\Debug\net5.0\Lista(ex fixacao).csproj.AssemblyReference.cache

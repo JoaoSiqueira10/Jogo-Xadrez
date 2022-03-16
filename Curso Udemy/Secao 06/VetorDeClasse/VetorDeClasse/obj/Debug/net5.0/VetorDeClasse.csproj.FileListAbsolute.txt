@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\bin\Debug\net5.0\VetorDeClasse.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\bin\Debug\net5.0\VetorDeClasse.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\bin\Debug\net5.0\VetorDeClasse.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\bin\Debug\net5.0\VetorDeClasse.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\bin\Debug\net5.0\VetorDeClasse.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\bin\Debug\net5.0\ref\VetorDeClasse.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\bin\Debug\net5.0\VetorDeClasse.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\ref\VetorDeClasse.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\VetorDeClasse\VetorDeClasse\obj\Debug\net5.0\VetorDeClasse.genruntimeconfig.cache

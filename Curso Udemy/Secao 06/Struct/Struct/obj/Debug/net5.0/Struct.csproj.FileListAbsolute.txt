@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\bin\Debug\net5.0\Struct.exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\bin\Debug\net5.0\Struct.deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\bin\Debug\net5.0\Struct.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\bin\Debug\net5.0\ref\Struct.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\bin\Debug\net5.0\Struct.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\ref\Struct.dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Struct\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache

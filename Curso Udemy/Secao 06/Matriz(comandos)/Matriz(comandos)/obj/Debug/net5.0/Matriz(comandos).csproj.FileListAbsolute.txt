@@ -1,0 +1,16 @@
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\bin\Debug\net5.0\Matriz(comandos).exe
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\bin\Debug\net5.0\Matriz(comandos).deps.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\bin\Debug\net5.0\Matriz(comandos).runtimeconfig.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\bin\Debug\net5.0\Matriz(comandos).runtimeconfig.dev.json
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\bin\Debug\net5.0\Matriz(comandos).dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\bin\Debug\net5.0\Matriz(comandos).pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).GeneratedMSBuildEditorConfig.editorconfig
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).AssemblyInfoInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).AssemblyInfo.cs
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).csproj.CoreCompileInputs.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\ref\Matriz(comandos).dll
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).pdb
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).genruntimeconfig.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\Matriz(comandos).csproj.AssemblyReference.cache
+D:\JG WorkFile\Programação\C#\Curso Udemy\Matriz(comandos)\Matriz(comandos)\obj\Debug\net5.0\refint\Matriz(comandos).dll
