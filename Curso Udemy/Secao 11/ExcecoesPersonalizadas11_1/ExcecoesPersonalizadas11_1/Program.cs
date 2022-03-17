@@ -15,10 +15,9 @@ namespace ExcecoesPersonalizadas11
             DateTime checkOut = DateTime.Parse(Console.ReadLine());
 
 
-            //solucao problematica
-            //logica problematica
+            //solucao problematica, logica problematica, muito ruim
             //quem deve conferir e atualizar as reservas é a classe Reservation e nao a principal
-
+            
             if (checkOut <= checkIn)
             {
                 Console.WriteLine("Error in reservation: Check-out date must be after check-in date");
@@ -35,6 +34,8 @@ namespace ExcecoesPersonalizadas11
                 Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
+                /*
+                //foi para classe reservation
                 DateTime now = DateTime.Now;
                 if (checkIn < now || checkOut < now)
                 {
@@ -44,12 +45,22 @@ namespace ExcecoesPersonalizadas11
                 {
                     Console.WriteLine("Error in reservation: Check-out date must be after check-in date");
                 }
+                */
+                string error = reservation.UpdateDates(checkIn, checkOut);
+
+                if (error != null)
+                {
+                    Console.WriteLine("Error in reservation: "+ error);
+                }
                 else
                 {
-                    reservation.UpdateDates(checkIn, checkOut);
                     Console.WriteLine("Reservation: " + reservation);
                 }
+                
             }
+            
+
+
             
         }
     }

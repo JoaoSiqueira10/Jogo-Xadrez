@@ -26,15 +26,29 @@ namespace ExcecoesPersonalizadas11.Entities
             return (int)duration.TotalDays;
         }
 
-        public void UpdateDates(DateTime checkIn, DateTime checkOut)
+        public string UpdateDates(DateTime checkIn, DateTime checkOut)
         {
+            
+
+                DateTime now = DateTime.Now;
+                if (checkIn < now || checkOut < now)
+                {
+                    return "Reservation dates for updates must be future dates";
+                }
+                if (checkOut <= checkIn)
+                {
+                    return "Check-out date must be after check-in date";
+                }
+                
             CheckIn = checkIn;
             CheckOut = checkOut;
+
+            return null;
         }
 
         public override string ToString()
         {
-            return "Room " + RoomNumber + ", check-in: "+ CheckIn.ToString("dd/MM/yyyy") + ", check-out: " + CheckOut.ToString("dd/MM/yyyy") + ", " + Duration() + "nights"; 
+            return "Room " + RoomNumber + ", check-in: "+ CheckIn.ToString("dd/MM/yyyy") + ", check-out: " + CheckOut.ToString("dd/MM/yyyy") + ", " + Duration() + " nights"; 
         }
     }
 }

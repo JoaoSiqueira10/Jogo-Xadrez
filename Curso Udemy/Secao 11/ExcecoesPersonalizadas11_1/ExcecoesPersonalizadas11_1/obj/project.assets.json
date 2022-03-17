@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JG WorkFile\\Programação\\C#\\Curso Udemy\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11.csproj",
+      "projectUniqueName": "D:\\JG WorkFile\\Programação\\C#\\Curso Udemy\\Secao 11\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11.csproj",
       "projectName": "ExcecoesPersonalizadas11",
-      "projectPath": "D:\\JG WorkFile\\Programação\\C#\\Curso Udemy\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11.csproj",
+      "projectPath": "D:\\JG WorkFile\\Programação\\C#\\Curso Udemy\\Secao 11\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11.csproj",
       "packagesPath": "C:\\Users\\joaog\\.nuget\\packages\\",
-      "outputPath": "D:\\JG WorkFile\\Programação\\C#\\Curso Udemy\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11_1\\obj\\",
+      "outputPath": "D:\\JG WorkFile\\Programação\\C#\\Curso Udemy\\Secao 11\\ExcecoesPersonalizadas11_1\\ExcecoesPersonalizadas11_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
