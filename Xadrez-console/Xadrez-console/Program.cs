@@ -8,7 +8,15 @@ namespace Xadrez_console
     {
         static void Main(string[] args)
         {
+            PosicaoXadrez pos = new PosicaoXadrez('c', 7);
 
+            Console.WriteLine(pos);
+            Console.WriteLine(pos.toPosicao());
+            Console.ReadLine();
+            
+            
+            
+            /*
             try
             {
 
@@ -27,6 +35,7 @@ namespace Xadrez_console
             {
                 Console.WriteLine(e.Message);
             }
+            */
         }
     }
 }
