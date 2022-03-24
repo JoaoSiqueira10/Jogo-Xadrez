@@ -8,7 +8,7 @@ namespace xadrez
         public Tabuleiro tab { get; private set; }
         private int turno;
         private Cor jogadorAtual;
-        public bool terminada { get; private set; } 
+        public bool terminada { get; private set; }
 
         public PartidadeDeXadrez()
         {
@@ -22,7 +22,6 @@ namespace xadrez
         public void executaMovimento(Posicao origem, Posicao destino)
         {
             Peca p = tab.retirarPeca(origem);
-            p.incrementarQteMovimento();
             Peca pecaCapturada = tab.retirarPeca(destino);
             tab.colocarPeca(p, destino);
         }
