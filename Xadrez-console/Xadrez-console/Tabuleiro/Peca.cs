@@ -15,7 +15,7 @@
             this.qteMovimentos = 0;
         }
 
-        public void incrementeQteMovimento()
+        public void incrementarQteMovimentos()
         {
             qteMovimentos++;
         }
