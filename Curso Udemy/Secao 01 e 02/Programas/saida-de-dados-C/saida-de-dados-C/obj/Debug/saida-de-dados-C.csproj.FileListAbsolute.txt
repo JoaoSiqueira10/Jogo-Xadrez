@@ -1,7 +1,0 @@
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\saida-de-dados-C\saida-de-dados-C\bin\Debug\saida-de-dados-C.exe.config
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\saida-de-dados-C\saida-de-dados-C\bin\Debug\saida-de-dados-C.exe
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\saida-de-dados-C\saida-de-dados-C\bin\Debug\saida-de-dados-C.pdb
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\saida-de-dados-C\saida-de-dados-C\obj\Debug\saida-de-dados-C.csprojResolveAssemblyReference.cache
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\saida-de-dados-C\saida-de-dados-C\obj\Debug\saida-de-dados-C.csproj.CoreCompileInputs.cache
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\saida-de-dados-C\saida-de-dados-C\obj\Debug\saida-de-dados-C.exe
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\saida-de-dados-C\saida-de-dados-C\obj\Debug\saida-de-dados-C.pdb

@@ -1,7 +1,0 @@
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\teste-vs2017\teste-vs2017\bin\Debug\teste-vs2017.exe.config
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\teste-vs2017\teste-vs2017\bin\Debug\teste-vs2017.exe
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\teste-vs2017\teste-vs2017\bin\Debug\teste-vs2017.pdb
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\teste-vs2017\teste-vs2017\obj\Debug\teste-vs2017.csprojResolveAssemblyReference.cache
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\teste-vs2017\teste-vs2017\obj\Debug\teste-vs2017.csproj.CoreCompileInputs.cache
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\teste-vs2017\teste-vs2017\obj\Debug\teste-vs2017.exe
-C:\Users\joaog\Desktop\JG WorkFile\Programação\C#\teste-vs2017\teste-vs2017\obj\Debug\teste-vs2017.pdb
